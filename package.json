@@ -1,6 +1,6 @@
 {
-  "name": "onion-restcom-service",
-  "version": "0.0.0",
+  "name": "home-manager",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node app.js"
@@ -10,6 +10,7 @@
     "basic-auth": "^1.1.0",
     "body-parser": "~1.16.0",
     "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
     "cron": "^1.3.0",
     "debug": "~2.6.0",
     "ejs": "~2.5.5",
